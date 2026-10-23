@@ -1,0 +1,9 @@
+QWEN IMAGEN PASCAL
+
+1) No necesitas volver a descargar modelos si ya los tienes.
+2) Copia models/ y runtime-v0.2.1/ a esta carpeta.
+3) Ejecuta: Iniciar Qwen Imagen Pascal.cmd
+4) Recomendado GTX 1070: Pascal automático + Pascal VAE · RÁPIDO + 512x512 + 6 pasos.
+5) Si falta VRAM: cambia a Tiled VAE y baja resolución.
+
+Los instaladores marcados OPCIONAL se conservaron solo para quien empiece desde cero.
